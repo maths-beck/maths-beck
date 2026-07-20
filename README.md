@@ -8,38 +8,49 @@ I am a **Computer Science Student** at **ICMC-USP** who is passionate about ***D
 
 ---
 
-## 🛠️ Technologies & Libraries
+## 🛠️ Technologies
 
-<p align="left">
-  <table style="border: none;">
-    <tr>
-      <td align="center" width="96">
-        <img src="images/Numpy_Logo.svg" width="65" height="65" alt="NumPy" /><br />
-        <b>NumPy</b>
-      </td>
-      <td align="center" width="96">
-        <img src="images/Pandas_Logo.svg" width="65" height="65" alt="Pandas" /><br />
-        <b>Pandas</b>
-      </td>
-      <td align="center" width="96">
-        <img src="images/Scikit_Logo.svg" width="65" height="65" alt="SkLearn" /><br />
-        <b>SkLearn</b>
-      </td>
-      <td align="center" width="96">
-        <img src="images/Pytorch_Logo.svg" width="65" height="65" alt="PyTorch" /><br />
-        <b>PyTorch</b>
-      </td>
-      <td align="center" width="96">
-        <img src="images/NetworkX_Logo.svg" width="65" height="65" alt="NetworkX" /><br />
-        <b>NetworkX</b>
-      </td>
-      <td align="center" width="96">
-        <img src="images/PyG_Logo.svg" width="65" height="65" alt="PyTorch Geometric" /><br />
-        <b>PyG</b>
-      </td>
-    </tr>
-  </table>
-</p>
+### | Languages
+<table style="border: none;">
+  <tr>
+    <td align="center" width="96">
+      <img src="images/Python_Logo.svg" width="65" height="65" alt="Python" /><br />
+      <b>Python</b>
+    </td>
+  </tr>
+</table>
+
+### | Libraries
+<table style="border: none;">
+  <tr>
+    <td align="center" width="96">
+      <img src="images/Numpy_Logo.svg" width="65" height="65" alt="NumPy" /><br />
+      <b>NumPy</b>
+    </td>
+    <td align="center" width="96">
+      <img src="images/Pandas_Logo.svg" width="65" height="65" alt="Pandas" /><br />
+      <b>Pandas</b>
+    </td>
+    <td align="center" width="96">
+      <img src="images/Scikit_Logo.svg" width="65" height="65" alt="SkLearn" /><br />
+      <b>SkLearn</b>
+    </td>
+    <td align="center" width="96">
+      <img src="images/Pytorch_Logo.svg" width="65" height="65" alt="PyTorch" /><br />
+      <b>PyTorch</b>
+    </td>
+    <td align="center" width="96">
+      <img src="images/NetworkX_Logo.svg" width="65" height="65" alt="NetworkX" /><br />
+      <b>NetworkX</b>
+    </td>
+    <td align="center" width="96">
+      <img src="images/PyG_Logo.svg" width="65" height="65" alt="PyTorch Geometric" /><br />
+      <b>PyG</b>
+    </td>
+  </tr>
+</table>
+
+<br clear="both" />
 
 ---
 
